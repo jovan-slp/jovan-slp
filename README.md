@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**jovan-slp/jovan-slp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Jovan De Sousa Lima Pereira
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Apaixonado por desenvolvimento de software e soluções tecnológicas que impactam positivamente o mundo.
+🌱 Atualmente focado em aprender mais sobre JavaScript, React, Node.js e bancos de dados.
+🚀 Meu objetivo é evoluir constantemente, contribuir com projetos reais e crescer como desenvolvedor full stack.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou aprendendo e usando:
+Linguagens: JavaScript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, React
+
+Backend: Node.js, Express
+
+Banco de Dados: MySQL, Firebase
+
+Controle de versão: Git e GitHub
+
+💡 Valores que me movem:
+Inovação com propósito
+
+Inclusão e diversidade
+
+Aprendizado contínuo (Lifelong Learning)
+
+Tecnologia a serviço das pessoas
+
+📫 Vamos conversar?
+Você pode me encontrar por aqui:
+https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5/ | jovan.clp.jc@gmail.com | 
