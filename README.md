@@ -26,6 +26,6 @@ Aprendizado contínuo (Lifelong Learning)
 
 Tecnologia a serviço das pessoas
 
-📫 Vamos conversar?
-Você pode me encontrar por aqui:
+📫 Vamos conversar?Você pode me encontrar por aqui:
+
 https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5/ | jovan.clp.jc@gmail.com | 
