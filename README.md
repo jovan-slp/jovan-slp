@@ -28,4 +28,13 @@ Tecnologia a serviço das pessoas
 
 📫 Vamos conversar?Você pode me encontrar por aqui:
 
-https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5/ | jovan.clp.jc@gmail.com | 
+<p>
+Meu
+  <a
+    href="https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5/"
+    title="Meu perfil">
+   Linkedin </a
+  >.
+</p>
+
+ jovan.clp.jc@gmail.com | 
